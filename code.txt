@@ -1,0 +1,13 @@
+
+
+************ TESTING readStream FILE *******************
+
+reate applications using Nodejs
+Build Scalable and lightweight web applications
+Learn the use of technologies such as Cassandra and MongoDB
+Understand the coding principles behind practical web applications
+Use the Express Framework to build web applications
+Learn the concepts of network programming
+
+
+********************************************************
